@@ -1,0 +1,62 @@
+
+
+/**, *:before, *:after {*/
+/*  -moz-box-sizing: border-box;*/
+/*  -webkit-box-sizing: border-box;*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+html {
+color: #222;
+font-size: 1em;
+line-height: 1.4;
+}
+
+body {
+margin: 25px 100px;
+padding: 15px;
+font-family: 'Nunito', sans-serif;
+color: #384047;
+}
+
+
+h1 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.tableau-wrapper {
+  margin: auto auto;
+  padding: 5px;
+  /*width: 60%;  !* 1455 *!*/
+  /*height: 60%;  !* 804 *!*/
+}
+
+.tableauPlaceholder {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*.tableauViz {*/
+/*  width: 80%;  !* 1455 *!*/
+/*  height: 60%;  !* 804 *!*/
+/*  display:none;*/
+/*}*/
+
+/* ==========================================================================
+   Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+  /* Style adjustments for viewports that meet the condition */
+}
