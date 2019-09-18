@@ -1,7 +1,7 @@
-# Embedding a Tableau Dashboard
+# Embedding a Tableau View into a Website
 
 
-> Demonstrating how to embed a Tableau dashboard into a website.
+> Demonstrating how to embed a Tableau view into a website.
 > Pulls Tableau dashboard and data from the public demos at www.Tableau.com
 - [Site Demo](https://edwardrutz.github.io/tableau-embed-site/)
 
