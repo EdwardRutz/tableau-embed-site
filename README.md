@@ -10,7 +10,7 @@
 
 ![](tableau-dashboard-embed-website.png)
 <img src="https://github.com/EdwardRutz/tableau-embed-site/blob/master/tableau-dashboard-embed-website.png"
-    height="600" width="800">
+    height="400" width="600">
 
 
 
