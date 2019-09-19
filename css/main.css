@@ -35,11 +35,17 @@ h1 {
   padding-bottom: 25px;
 }
 
+.center {
+  margin: auto;
+  width: 20%;
+  padding: 10px;
+}
+
 .tableau-wrapper {
   margin: auto auto;
   padding: 5px;
-  /*width: 60%;  !* 1455 *!*/
-  /*height: 60%;  !* 804 *!*/
+  width: 100%;  /* 1455 */
+  height: 100%;  /* 804 */
 }
 
 .tableauPlaceholder {
