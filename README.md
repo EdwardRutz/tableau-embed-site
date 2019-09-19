@@ -2,7 +2,7 @@
 
 
 > Demonstrating how to embed a Tableau view into a website.
-> Pulls Tableau dashboard and data from the public demos at www.Tableau.com
+> Pulls Tableau dashboard and data from the public demos at [Tableau Public](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
 - [Site Demo](https://edwardrutz.github.io/tableau-embed-site/)
 
 
